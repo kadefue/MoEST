@@ -153,11 +153,3 @@ These combined CSVs include a `Source_Year` column that was inserted before conc
 
 This repository includes a `LICENSE` file. See that file for licensing terms.
 
----
-
-If you want, I can:
-- Commit this README.md into the repository for you; or
-- Extract the notebook code into a reusable Python module and add a small CLI wrapper; or
-- Create a sanitized example script that demonstrates running `extract_and_combine()` locally.
-
-Which of those would you like me to do next?
